@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15e60fdd-90b9-4062-96b0-eeea918c5382" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/algorithm/Numbers.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/algorithm/Numbers.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/algorithm/Sort.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/algorithm/Sort.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/databases/ConnectDB.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/databases/ConnectDB.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/databases/User.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/databases/User.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/datastructure/DataReader.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/datastructure/DataReader.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/datastructure/UseArrayList.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/datastructure/UseArrayList.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/datastructure/UseMap.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/datastructure/UseMap.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/datastructure/UseQueue.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/datastructure/UseQueue.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/definition/core-java-conceptual-questions" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/definition/core-java-conceptual-questions" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/definition/data-structure-questions" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/definition/data-structure-questions" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/Employee.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/Employee.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/EmployeeInfo$1.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/EmployeeInfo$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/EmployeeInfo$DateConversion.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/EmployeeInfo$DateConversion.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/EmployeeInfo.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/EmployeeInfo.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/FortuneEmployee.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/FortuneEmployee.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/Months.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/design/Months.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/Factorial.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/Factorial.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/FindMissingNumber.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/FindMissingNumber.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/LowestNumber.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/LowestNumber.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/MakePyramid.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/MakePyramid.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/Pattern.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/Pattern.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/PrimeNumber.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/math/PrimeNumber.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/parser/ProcessStudentInfo.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/parser/ProcessStudentInfo.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/parser/Student.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/parser/Student.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/parser/XmlReader.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/parser/XmlReader.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/problems/Anagram.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/problems/Anagram.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/problems/DuplicateWord.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/problems/DuplicateWord.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/problems/Palindrome.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/problems/Palindrome.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/problems/Permutation.class" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/problems/Permutation.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJuly2017/secret.properties" afterPath="$PROJECT_DIR$/out/production/CodingExamJuly2017/secret.properties" />
-      <change beforePath="$PROJECT_DIR$/src/databases/ConnectDB.java" afterPath="$PROJECT_DIR$/src/databases/ConnectDB.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/DataReader.java" afterPath="$PROJECT_DIR$/src/datastructure/DataReader.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" afterPath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" />
-      <change beforePath="$PROJECT_DIR$/src/definition/data-structure-questions" afterPath="$PROJECT_DIR$/src/definition/data-structure-questions" />
-      <change beforePath="$PROJECT_DIR$/src/design/Employee.java" afterPath="$PROJECT_DIR$/src/design/Employee.java" />
-      <change beforePath="$PROJECT_DIR$/src/design/EmployeeInfo.java" afterPath="$PROJECT_DIR$/src/design/EmployeeInfo.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/Factorial.java" afterPath="$PROJECT_DIR$/src/math/Factorial.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/Fibonacci.java" afterPath="$PROJECT_DIR$/src/math/Fibonacci.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/FindMissingNumber.java" afterPath="$PROJECT_DIR$/src/math/FindMissingNumber.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/LowestNumber.java" afterPath="$PROJECT_DIR$/src/math/LowestNumber.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/MakePyramid.java" afterPath="$PROJECT_DIR$/src/math/MakePyramid.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/Pattern.java" afterPath="$PROJECT_DIR$/src/math/Pattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/PrimeNumber.java" afterPath="$PROJECT_DIR$/src/math/PrimeNumber.java" />
-      <change beforePath="$PROJECT_DIR$/src/parser/ProcessStudentInfo.java" afterPath="$PROJECT_DIR$/src/parser/ProcessStudentInfo.java" />
-      <change beforePath="$PROJECT_DIR$/src/problems/Anagram.java" afterPath="$PROJECT_DIR$/src/problems/Anagram.java" />
-      <change beforePath="$PROJECT_DIR$/src/problems/DuplicateWord.java" afterPath="$PROJECT_DIR$/src/problems/DuplicateWord.java" />
-      <change beforePath="$PROJECT_DIR$/src/problems/Palindrome.java" afterPath="$PROJECT_DIR$/src/problems/Palindrome.java" />
-      <change beforePath="$PROJECT_DIR$/src/problems/Permutation.java" afterPath="$PROJECT_DIR$/src/problems/Permutation.java" />
-      <change beforePath="$PROJECT_DIR$/src/secret.properties" afterPath="$PROJECT_DIR$/src/secret.properties" />
-    </list>
+    <list default="true" id="15e60fdd-90b9-4062-96b0-eeea918c5382" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,7 +15,7 @@
       <file leaf-file-name="LowestNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/math/LowestNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="0">
               <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
               <folding />
             </state>
@@ -104,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Factorial.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Factorial.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/math/Factorial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+            <state relative-caret-position="360">
+              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -124,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Anagram.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Anagram.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problems/Anagram.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
@@ -134,11 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DuplicateWord.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problems/DuplicateWord.java">
+      <file leaf-file-name="CodingExamJuly2017.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExamJuly2017.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="55" lean-forward="false" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -224,7 +172,6 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-14" />
     <option name="y" value="38" />
     <option name="width" value="1393" />
     <option name="height" value="797" />
@@ -247,8 +194,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -289,8 +237,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -530,7 +477,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="38" width="1393" height="797" extended-state="0" />
+    <frame x="0" y="38" width="1393" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -544,7 +492,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19382627" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19382627" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -570,13 +518,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/problems/DuplicateWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="55" lean-forward="false" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problems/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -862,33 +803,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExamJuly2017.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/math/PrimeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/secret.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -903,8 +821,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/math/LowestNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="0">
           <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4948">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/Anagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="60" lean-forward="false" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExamJuly2017.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secret.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -917,10 +867,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems/Anagram.java">
+    <entry file="file://$PROJECT_DIR$/src/math/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="60" lean-forward="false" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+        <state relative-caret-position="360">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
           <folding />
         </state>
       </provider>
